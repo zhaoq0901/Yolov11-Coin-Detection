@@ -1,3 +1,7 @@
+# Adapted from: "yolo_detect.py" by Evan EdjeElectronics (2025)
+# Availability: https://raw.githubusercontent.com/EdjeElectronics/Train-and-Deploy-YOLO-Models/refs/heads/main/yolo_detect.py
+# Adjustment Date: 07/08/2026
+
 import os
 import sys
 import argparse
